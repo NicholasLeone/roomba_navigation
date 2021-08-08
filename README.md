@@ -60,4 +60,4 @@ STL files on the root folder is consisted of 3D-CAD floor plan of one of the bui
 **153-2.stl**: 3D-CAD floor plan for the second floor.
 
 **153-3.stl**: 3D-CAD floor plan for the third floor.
->>>>>>> Adding readme
+
