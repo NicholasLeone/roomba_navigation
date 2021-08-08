@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# roomba_navigation
-=======
 # roomba-navigation
 ## Set up
 To set up this repository, you need linux environemnt and ros-noetic.
